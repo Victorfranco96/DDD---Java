@@ -41,6 +41,6 @@ public class Horario {
 		default:
 			System.out.println("Opção inválida");
 		}
-		in.close();
+		in.close();;
 	}
 }
